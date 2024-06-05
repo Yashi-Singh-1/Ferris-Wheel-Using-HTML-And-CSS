@@ -4,7 +4,7 @@ This project, inspired by the FreeCodeCamp curriculum, demonstrates the implemen
 
 ## Demo Video
 
-[![Ferris Wheel Demo Video](demo.mp4)](demo.mp4)
+[![Ferris Wheel Demo Video](demo.png)](demo.mp4)
 
 Click the image above to watch a demo of the Ferris wheel project.
 
