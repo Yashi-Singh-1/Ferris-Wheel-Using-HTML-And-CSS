@@ -2,11 +2,8 @@
 
 This project, inspired by the FreeCodeCamp curriculum, demonstrates the implementation of CSS animations to create an engaging Ferris wheel effect on a webpage. By leveraging CSS animation techniques, elements are transformed and animated to draw attention to specific sections, enhancing the overall user experience.
 
-## Demo Video
-
-[![Ferris Wheel Demo Video](demo.png)](demo.mp4)
-
-Click the image above to watch a demo of the Ferris wheel project.
+## Demo 
+[![Ferris Wheel Demo Video](demo.png)]([demo.mp4](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-29))
 
 ## Key Features
 
